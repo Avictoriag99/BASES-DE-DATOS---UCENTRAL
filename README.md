@@ -1,2 +1,2 @@
-# BASES-DE-DATOS---UCENTRAL
+# BASES DE DATOS UCENTRAL
 Tareas de Bases de Datos
